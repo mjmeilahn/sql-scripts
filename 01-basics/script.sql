@@ -23,9 +23,9 @@ SELECT * FROM tbl_customers WHERE NOT City = 'Tokyo';
 
 SELECT * FROM tbl_customers WHERE CustomerID = 32;
 
--- 7. Select everything where "City" is "Tokyo" & "PostalCode" is 12808
+-- 7. Select everything where "City" is "Tokyo" & "Zipcode" is 12808
 
-SELECT * FROM tbl_customers WHERE City = 'Tokyo' AND PostalCode = 12808;
+SELECT * FROM tbl_customers WHERE City = 'Tokyo' AND Zipcode = 12808;
 
 -- 8. Select everything where "City" is "Tokyo" or "Madrid"
 
