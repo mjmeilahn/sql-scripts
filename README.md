@@ -7,6 +7,6 @@ A small repo of reusable and descriptive scripts for raw SQL.
 
 3. Inserting & Updating - Standard data updates, manipulation and deletion.
 
-4. Functions - TBD.
+4. Functions - Standard reusable functions e.g. MIN, MAX, SUM, AVG. Requires correct data type as its main argument.
 
 5. Joins - TBD.
