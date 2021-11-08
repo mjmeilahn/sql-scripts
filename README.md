@@ -9,4 +9,4 @@ A small repo of reusable and descriptive scripts for raw SQL.
 
 4. Functions - Standard reusable functions e.g. MIN, MAX, SUM, AVG. Requires correct data type as its main argument.
 
-5. Joins - TBD.
+5. Joins - Mainly Left, Right and Inner Joins. Matches record based on selection criteria, commonly an ID.
